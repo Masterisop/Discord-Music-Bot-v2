@@ -1,9 +1,9 @@
 module.exports = {
-TOKEN: "",
-ownerID: "", //write your discord user id.
-botInvite: "", //write your discord bot invite.
-mongodbURL: "", //write your mongodb url.
-status: '❤️ codeshare.me',
+TOKEN: "MTE2MzA2Nzg5NDc0MjEzMDcxOA.G0C6B-.ZlYyOwejeDp1fOHbt4Tp6HOYulio2hdoHB4Myk",
+ownerID: "1132597082264440882", //write your discord user id.
+botInvite: "https://discord.com/api/oauth2/authorize?client_id=1163067894742130718&permissions=8&scope=bot", //write your discord bot invite.
+mongodbURL: "mongodb+srv://user777:MasterxD@cluster0.xlri1h4.mongodb.net/", //write your mongodb url.
+status: '❤️ /rtontop',
 commandsDir: './commands', //Please don't touch
 language: "en", //en, tr
 
